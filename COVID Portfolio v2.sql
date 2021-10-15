@@ -1,4 +1,4 @@
---The portfolio project focuses on establishing trends related to Covid Deaths and Covid Vaccinations around the globe. The dataset used is from from: 'https://ourworldindata.org/coronavirus'
+--The portfolio project focuses on establishing trends related to Covid Deaths and Covid Vaccinations around the world. The dataset used is from from: 'https://ourworldindata.org/coronavirus'
 
 -- Firstly, we will be loading the dataset from the CovidDeaths.csv which contains the information about location, population, new cases and death cases. 
 -- All data in the table are selected and sorted by location first, followed by date.
